@@ -1,2 +1,2 @@
 # SMART
-Blockchain-Based Rating System for Post-Pandemic Travelling 
+Blockchain-Based Smart Card for Post-Pandemic Travelling 

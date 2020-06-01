@@ -1,6 +1,6 @@
 {
   "private": true,
-  "description": "Example Website",
+  "description": "Blockchain-Based Smart Card for Post-Pandemic Travelling",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "eosjs": "^20.0.0",
     "http-server": "^0.11.1",
     "source-map-loader": "^0.2.4",
-    "ts-loader": "^6.0.4",
+    "ts-loader": "^6.7.0",
     "typescript": "^3.6.2",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.7",
